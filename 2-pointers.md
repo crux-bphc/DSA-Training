@@ -1,4 +1,4 @@
-Can be used to solve wide variety of problems. 
+Can be used to solve variety of problems. 
 
 Link to tutorial : https://www.geeksforgeeks.org/two-pointers-technique/
 
