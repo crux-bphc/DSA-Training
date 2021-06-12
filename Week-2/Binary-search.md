@@ -20,7 +20,6 @@ Try solving [this problem](https://codeforces.com/contest/1201/problem/C). You m
 ### Resources
 * [Basic binary seach [B]](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/)
 * [Basic binary search [V]](https://www.youtube.com/watch?v=j5uXyPJ0Pew)
-
 * [Discrete binary search [B]](https://oldaddr.wordpress.com/2014/06/28/binary-search-the-answer/)
 * [Both [B]](https://www.topcoder.com/thrive/articles/Binary%20Search)
 
