@@ -11,7 +11,7 @@ The two pointer method is a technique that can be used to solve problems naively
 * [Interviewbit - Diffk](https://www.interviewbit.com/problems/diffk/)
 * [Interviewbit - Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
 
-##### Challenging ones
+##### Challenging
 * [Interviewbit - Maximum Ones After Modification](https://www.interviewbit.com/problems/maximum-ones-after-modification/)
 * [Leetcode 1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
 * [Leetcode 11](https://leetcode.com/problems/container-with-most-water/)
