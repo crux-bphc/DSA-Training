@@ -1,4 +1,4 @@
-# SORTING
+# Sorting
 ## Sorting Algorithms
 Sorting is a very, very important technique that is used in a lot of problems. There are many standard sorting techniques that you are expected know. You may refer to [this](https://www.programiz.com/dsa/sorting-algorithm). In particular, you must know how [bubble sort](https://www.programiz.com/dsa/bubble-sort), [selection sort](https://www.programiz.com/dsa/selection-sort), [insertion sort](https://www.programiz.com/dsa/insertion-sort), [merge sort](https://www.programiz.com/dsa/merge-sort), [quick sort](https://www.programiz.com/dsa/quick-sort), [counting sort](https://www.programiz.com/dsa/counting-sort) and [heap sort](https://www.programiz.com/dsa/heap-sort) work and their respective time complexities (both average and worst case if they differ).
 
