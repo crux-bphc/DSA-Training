@@ -9,3 +9,9 @@
 5.) https://leetcode.com/problems/invert-binary-tree/
 
 6.) https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
+7.) https://www.interviewbit.com/problems/kth-smallest-element-in-tree/
+
+8.) https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
+9.) https://www.interviewbit.com/problems/bst-iterator/
