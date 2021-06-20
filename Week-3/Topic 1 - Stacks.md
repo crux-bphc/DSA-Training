@@ -1,6 +1,6 @@
 # Stacks
 
-Stacks are one of the simplest and most elementary data structures. A queue processes data in reverse chronological order, i.e. most recent first (LIFO: last in, first out) and has a wide variety of applications. Objects are pushed on top of the stack and are also popped out from the top.
+Stacks are one of the simplest and most elementary data structures. A stack processes data in reverse chronological order, i.e. most recent first (LIFO: last in, first out) and has a wide variety of applications. Objects are pushed on top of the stack and are also popped out from the top.
 
 #### Resources
 * [Hackerearth tutorial [B]](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/)
