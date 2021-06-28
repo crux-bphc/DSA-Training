@@ -32,7 +32,7 @@ Now that we know both the recursive and memoised solution, we can easily convert
 #### Resources
 * [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 * [Video [V]](https://www.youtube.com/watch?v=xCbYmUPvc2Q)
-* [CPH Ch 7, pg 72, Knapsack [B]](https://cses.fi/book/book.pdf#page=82)
+* [CPH [B]](https://cses.fi/book/book.pdf#page=82) (Ch 7 pg 72, Knapsack)
 * [HackerEarth](https://www.hackerearth.com/practice/notes/the-knapsack-problem/)
 
 #### Problems

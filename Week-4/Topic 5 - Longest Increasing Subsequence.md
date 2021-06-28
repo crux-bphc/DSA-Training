@@ -3,7 +3,7 @@ The dp approach is O(n<sup>2</sup>) and helps build intuition and understanding.
 
 #### Resources
 * [Video [V]](https://www.youtube.com/watch?v=fV-TF4OvZpk)
-* [CPH Ch 7, pg 70, Longest increasing subsequence [B]](https://cses.fi/book/book.pdf#page=80)
+* [CPH [B]](https://cses.fi/book/book.pdf#page=80) (Ch 7 pg 70, Longest increasing subsequence)
 * [LIS in O(nlogn)](https://cp-algorithms.com/sequences/longest_increasing_subsequence.html)
 
 #### Problems

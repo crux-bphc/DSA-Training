@@ -2,7 +2,7 @@
 
 #### Resources
 * [Hackerearth [B]](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
-* [CPH Ch 10, pg 102, Dynamic programming [B]](https://cses.fi/book/book.pdf#page=112)
+* [CPH [B]](https://cses.fi/book/book.pdf#page=112) (Ch 10 pg 102, Dynamic programming)
 
 #### Problems
 * [Atcoder DP O](https://atcoder.jp/contests/dp/tasks/dp_o)
