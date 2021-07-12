@@ -30,7 +30,6 @@ Try solving [this problem](https://codeforces.com/contest/1201/problem/C). You m
 * [Codeforces 812C](https://codeforces.com/contest/812/problem/C)
 * [Codeforces 269B](https://codeforces.com/contest/269/problem/B)
 * [Codeforces 118D2](https://codeforces.com/contest/1118/problem/D2)
-* [Codeforces 1257D](https://codeforces.com/problemset/problem/1257/D)
 
 ## Ternary Search
 Ternary Seach is used in specific situations when the given function has a **U or an inverted U shape** i.e has a **distinct minimum or maximum** over a given discrete valued range.
