@@ -1,7 +1,7 @@
 ## Implementation
 Implementation problems do not rely on the knowledge of any particular data structure or algorithm. They usually involve implementing some idea or may require some observations to solve the problem. Strings are very common in implementation problems, so if you aren't familiar with C++ ```std::string```, do read up on it and get familiar with it.
 
-> For interviews try to think about how to code it cleanly before jumping right into it.
+> For interviews try to think about how to code cleanly before jumping right into it.
 > 
 > -- <cite>Someone, probably.</cite>
 
@@ -20,7 +20,7 @@ Implementation problems do not rely on the knowledge of any particular data stru
 A 'greedy' approach is one where a locally optimal choice leads to a globally optimal one. So at every step, we make the best choice and this leads to an overall optimal answer.
 
 #### Resources
-* [Tutorial [B]](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+* [Hackerearth [B]](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 
 #### Problems
 * [Codeforces 1148A](https://codeforces.com/problemset/problem/1148/A)

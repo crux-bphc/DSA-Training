@@ -7,3 +7,5 @@
 * [Leetcode 365](https://leetcode.com/problems/water-and-jug-problem/)
 
 [Short article on GCD](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+
+**Tip**: Use [std::gcd](https://en.cppreference.com/w/cpp/numeric/gcd) or **__gcd()** (a builtin function of the GCC compiler).
